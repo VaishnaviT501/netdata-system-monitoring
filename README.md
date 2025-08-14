@@ -29,23 +29,22 @@ docker run -d --name=netdata `
 -v /etc/os-release:/host/etc/os-release:ro `
 netdata/netdata
 
+## Screenshots:
 
-**Screenshots:**
-(
-![Database] (Screenshots/Screenshot 2025-08-14 203743.png
-Screenshots/Screenshot 2025-08-14 204556.png
-![System] (Screenshots/Screenshot 2025-08-14 204621.png
-![Modules] (Screenshots/Screenshot 2025-08-14 204636.png
-![Directories] (Screenshots/Screenshot 2025-08-14 204654.png
-![Metrics] (Screenshots/Screenshot 2025-08-14 204852.png)
-![CPU Metrics] (Screenshots/Screenshot 2025-08-14 204948.png)
-![Disk Metrics] (Screenshots/Screenshot 2025-08-14 205017.png)
-![Alerts] (Screenshots/Screenshot 2025-08-14 205151.png)
-![Alert] (Screenshots/Screenshot 2025-08-14 205217.png
-![Alert Graph] (Screenshots/Screenshot 2025-08-14 205309.png)
-![Docker Containers] (Screenshots/Screenshot 2025-08-14 205618.png
-![Dashbaord] (Screenshots/Screenshot 2025-08-14 205912.png
-)
+![Database](Screenshots/Screenshot%202025-08-14%20203743.png)  
+![Main Dashboard](Screenshots/Screenshot%202025-08-14%20204556.png)  
+![System](Screenshots/Screenshot%202025-08-14%20204621.png)  
+![Modules](Screenshots/Screenshot%202025-08-14%20204636.png)  
+![Directories](Screenshots/Screenshot%202025-08-14%20204654.png)  
+![Metrics](Screenshots/Screenshot%202025-08-14%20204852.png)  
+![CPU Metrics](Screenshots/Screenshot%202025-08-14%20204948.png)  
+![Disk Metrics](Screenshots/Screenshot%202025-08-14%20205017.png)  
+![Alerts](Screenshots/Screenshot%202025-08-14%20205151.png)  
+![Alert](Screenshots/Screenshot%202025-08-14%20205217.png)  
+![Alert Graph](Screenshots/Screenshot%202025-08-14%20205309.png)  
+![Docker Containers](Screenshots/Screenshot%202025-08-14%20205618.png)  
+![Dashboard](Screenshots/Screenshot%202025-08-14%20205912.png)  
+
 
 ## Observations
 
