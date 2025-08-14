@@ -31,21 +31,22 @@ netdata/netdata
 
 ---
 
-## Screenshots:
+## Screenshots
 
-<img width="1919" height="968" alt="Screenshot 2025-08-14 205017" src="https://github.com/user-attachments/assets/e5c3d8e0-38fb-4956-9202-c7e0c8a33b96" />
-<img width="1919" height="970" alt="Screenshot 2025-08-14 204948" src="https://github.com/user-attachments/assets/40356046-5e5a-446c-b9f2-e5eab7acedd6" />
-<img width="1919" height="973" alt="Screenshot 2025-08-14 204852" src="https://github.com/user-attachments/assets/e663b522-3d0b-4890-b7c3-453e8cf79bc2" />
-<img width="1917" height="969" alt="Screenshot 2025-08-14 204654" src="https://github.com/user-attachments/assets/15097b3b-0c29-4452-a588-1c7abf5d2535" />
-<img width="1919" height="964" alt="Screenshot 2025-08-14 204636" src="https://github.com/user-attachments/assets/5f0a35d9-99e1-408e-ab9b-343aa472e3e1" />
-<img width="1918" height="963" alt="Screenshot 2025-08-14 204621" src="https://github.com/user-attachments/assets/feea4838-cb86-423b-ae24-099308fbb711" />
-<img width="1919" height="964" alt="Screenshot 2025-08-14 204556" src="https://github.com/user-attachments/assets/55a801db-2749-4092-adf8-5bf715fb313b" />
-<img width="1916" height="973" alt="Screenshot 2025-08-14 203743" src="https://github.com/user-attachments/assets/19974cb4-4670-475d-adec-ad2c2cfedf49" />
-<img width="1919" height="968" alt="Screenshot 2025-08-14 205912" src="https://github.com/user-attachments/assets/8b0398a7-f86e-408d-81fc-455c1798ec02" />
-<img width="1919" height="1023" alt="Screenshot 2025-08-14 205618" src="https://github.com/user-attachments/assets/d50dd66e-1486-4a2f-bba6-9f2341ab051c" />
-<img width="1919" height="966" alt="Screenshot 2025-08-14 205309" src="https://github.com/user-attachments/assets/e1d16b6f-86e2-465a-ac2c-0f56bc351b28" />
-<img width="1919" height="972" alt="Screenshot 2025-08-14 205217" src="https://github.com/user-attachments/assets/224c68b2-2a8d-4121-b07b-10a101798a93" />
-<img width="1919" height="973" alt="Screenshot 2025-08-14 205151" src="https://github.com/user-attachments/assets/677f470b-dfa8-455f-9b10-895964edb56b" />
+<img width="1919" height="968" alt="Screenshot 2025-08-14 205912" src="https://github.com/user-attachments/assets/1d038d45-f76c-451b-9452-a5b0a06bfa27" />
+<img width="1919" height="1023" alt="Screenshot 2025-08-14 205618" src="https://github.com/user-attachments/assets/b617c443-6286-4a30-8034-a55a30f997a2" />
+<img width="1919" height="966" alt="Screenshot 2025-08-14 205309" src="https://github.com/user-attachments/assets/b9865f97-dd68-4118-a8b2-501b41e2a39e" />
+<img width="1919" height="972" alt="Screenshot 2025-08-14 205217" src="https://github.com/user-attachments/assets/daa9e841-31d3-454a-9607-450817779356" />
+<img width="1919" height="973" alt="Screenshot 2025-08-14 205151" src="https://github.com/user-attachments/assets/1cae35eb-4cc4-46e7-8db9-432dcd403ae5" />
+<img width="1919" height="968" alt="Screenshot 2025-08-14 205017" src="https://github.com/user-attachments/assets/55923068-ba78-40fd-b5e1-a63b6e6c0b5e" />
+<img width="1919" height="970" alt="Screenshot 2025-08-14 204948" src="https://github.com/user-attachments/assets/c611892c-7333-4dc4-9a93-32327b1b14ec" />
+<img width="1919" height="973" alt="Screenshot 2025-08-14 204852" src="https://github.com/user-attachments/assets/dfc8d89c-dd37-4e6b-8494-1b1bf98e0a1c" />
+<img width="1917" height="969" alt="Screenshot 2025-08-14 204654" src="https://github.com/user-attachments/assets/0c4061f9-2598-4fba-8bfa-89c935547b58" />
+<img width="1919" height="964" alt="Screenshot 2025-08-14 204636" src="https://github.com/user-attachments/assets/365aaffd-1324-40dd-8803-dd50d86a2835" />
+<img width="1918" height="963" alt="Screenshot 2025-08-14 204621" src="https://github.com/user-attachments/assets/becf0d78-9d94-4946-abf5-c33890dede2a" />
+<img width="1919" height="964" alt="Screenshot 2025-08-14 204556" src="https://github.com/user-attachments/assets/9cb85849-9e5c-4960-8355-8b4251a08eac" />
+<img width="1916" height="973" alt="Screenshot 2025-08-14 203743" src="https://github.com/user-attachments/assets/a56d7048-88cb-4f8c-ba33-3c02186a9974" />
+
 
   
 ---
@@ -56,4 +57,5 @@ netdata/netdata
 - Tracked Docker containers in real time.  
 - Observed various system metrics with interactive charts.  
 - Verified alert system in the dashboard.  
+
 
